@@ -1,0 +1,1 @@
+a redirection basic file
